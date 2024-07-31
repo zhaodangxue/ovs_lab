@@ -10,7 +10,7 @@ chmod 777 $file_name_1
 chmod 777 $file_name_2
 chmod 777 $file_name_3
 ./setup_ovs.sh
-./test_ovs.sh -s 0
+./test_ovs_flow.sh -s 0
 echo "" > $file_name_1
 echo "" > $file_name_2
 echo "" > $file_name_3

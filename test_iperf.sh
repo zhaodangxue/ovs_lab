@@ -1,17 +1,31 @@
 #!/bin/bash
-veth_num=0
-while getopts "s:" opt; do
+#这个代表规模，可能是port规模，也可能是流表项规模
+scale_num=0
+#这个type参数是为了区分不同的测试,目前我们设置为0代表流表项数目测试,1代表port数目测试
+type=0
+file_name=""
+while getopts "s:t:" opt; do
   case ${opt} in
     s )
-      veth_num=$OPTARG
+      scale_num=$OPTARG
+      ;;
+    t )
+      type=$OPTARG
       ;;
     \? )
-      echo "Usage: $0 [-s veth_num]"
+      echo "Usage: $0 [-s scale_num] [-t type]"
       exit 1
       ;;
   esac
 done
-file_name="./data/iperf_result/${veth_num}.txt"
+if [ $type -eq 0 ]; then
+    file_name="./data/iperf_result/flow/${scale_num}.txt"
+elif [ $type -eq 1 ]; then
+    file_name="./data/iperf_result/port/${scale_num}.txt"
+else
+    echo "type should be 0 or 1"
+    exit 1
+fi
 # 检查并创建目录
 mkdir -p "$(dirname "$file_name")"
 echo "Starting iperf test..."
