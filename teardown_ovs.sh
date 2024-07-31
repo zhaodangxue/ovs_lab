@@ -78,5 +78,5 @@ for ns in "${namespaces[@]}"; do
     echo "Deleting namespace: $ns"
     ip netns del "$ns"
 done
-pkill -f 'test'
+pkill -f 'iperf'
 echo "Cleanup complete!"

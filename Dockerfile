@@ -5,7 +5,7 @@ RUN apt-get update
 RUN apt-get install git -y
 RUN apt install -y python3 python3-dev python3-pip
 RUN apt-get install -y inetutils-ping
-RUN apt-get install -y iperf3
+RUN apt-get install -y iperf
 RUN apt-get install -y netperf
 RUN apt-get install -y openvswitch-switch
 RUN apt-get install -y openvswitch-common

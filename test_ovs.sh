@@ -41,37 +41,46 @@ create_veth() {
 process_port() {
     local i=$1
     # echo "Adding port veth_$i to ovs_br0 and setting flow"
-    ovs-vsctl add-port ovs_br0 veth_$i
-    ovs-ofctl add-flow ovs_br0 "in_port=veth_$i, actions=output:veth_1"
+    # ovs-vsctl add-port ovs_br0 veth_$i
+    # 计算 IP 地址的各个字节
+    x=$((i / 256))
+    y=$((i % 256))
+
+    # 生成 IP 地址
+    ip_address="192.168.${x}.${y}"
+
+    # 打印生成的 IP 地址
+    echo "Generated IP address: $ip_address"
+    ovs-ofctl add-flow ovs_br0 "ip,nw_src=$ip_address,actions=drop"
 }
 
 AddVeth(){
     echo "Adding veth pairs..."
     num=$((2 + veth_num))
-    start_time_veth=$(date +%s)  # 记录开始时间
-    # 处理 veth 对的创建
-    for i in $(seq 3 $num); do
-        # 调用创建函数并将其放入后台
-        create_veth "$i" &
+    # start_time_veth=$(date +%s)  # 记录开始时间
+    # # 处理 veth 对的创建
+    # for i in $(seq 3 $num); do
+    #     # 调用创建函数并将其放入后台
+    #     create_veth "$i" &
     
-        # 递增计数器
-        ((job_count++))
+    #     # 递增计数器
+    #     ((job_count++))
 
-        # 如果达到最大并发数，则等待所有后台任务完成
-        if ((job_count >= max_jobs)); then
-            wait
-            job_count=0  # 重置计数器以便下一批任务
-        fi
-    done
-    wait 
-    end_time_veth=$(date +%s)  # 记录结束时间
-    duration_veth=$((end_time_veth - start_time_veth))  # 计算时间差
-    file_name="./data/veth_time/${veth_num}.txt"
-    # 检查并创建目录
-    mkdir -p "$(dirname "$file_name")"
-    echo "veth pairs added successfully in $duration_veth seconds" > $file_name 2>&1
+    #     # 如果达到最大并发数，则等待所有后台任务完成
+    #     if ((job_count >= max_jobs)); then
+    #         wait
+    #         job_count=0  # 重置计数器以便下一批任务
+    #     fi
+    # done
+    # wait 
+    # end_time_veth=$(date +%s)  # 记录结束时间
+    # duration_veth=$((end_time_veth - start_time_veth))  # 计算时间差
+    # file_name="./data/veth_time/${veth_num}.txt"
+    # # 检查并创建目录
+    # mkdir -p "$(dirname "$file_name")"
+    # echo "veth pairs added successfully in $duration_veth seconds" > $file_name 2>&1
     job_count=0
-    echo "veth pairs added successfully"
+    # echo "veth pairs added successfully"
     echo "add flows..."
     start_time_flow=$(date +%s)  # 记录开始时间
     # 处理端口的添加和流表设置
