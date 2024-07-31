@@ -3,6 +3,12 @@ file_name_1="./data/iperf_result/normal_para.txt"
 file_name_2="./data/iperf_result/numa_para.txt"
 file_name_3="./data/iperf_result/numa_diff_para.txt"
 para_nums=(1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32)
+mkdir -p "$(dirname "$file_name_1")"
+mkdir -p "$(dirname "$file_name_2")"
+mkdir -p "$(dirname "$file_name_3")"
+chmod 777 $file_name_1
+chmod 777 $file_name_2
+chmod 777 $file_name_3
 ./setup_ovs.sh
 ./test_ovs.sh -s 0
 echo "" > $file_name_1
