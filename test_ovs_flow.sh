@@ -28,11 +28,12 @@ done
 process_flow() {
     local i=$1
     # 计算 IP 地址的各个字节
-    x=$((i / 256))
-    y=$((i % 256))
+    x=$(((i / 65536) + 1))
+    z=$((i % 256))
+    y=$((i % 65536 / 256))
 
     # 生成 IP 地址
-    ip_address="192.168.${x}.${y}"
+    ip_address="192.$x.$y.$z"
 
     # 打印生成的 IP 地址
     echo "Generated IP address: $ip_address"

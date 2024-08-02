@@ -35,9 +35,9 @@ echo "Starting iperf server..."
 ip netns exec ns1 iperf -s &
 sleep 10
 echo "Running test iteration..."
-for i in {1..5}; do
+for i in {1..7}; do
     echo "Running test iteration $i..."
-    ip netns exec ns2 iperf -c 192.100.1.2 -t 60 -i 1 >> $file_name
+    ip netns exec ns2 iperf -c 192.100.1.2 -t 60  >> $file_name
     echo "Iteration $i complete. Waiting before next iteration..." >> $file_name
     echo "Iteration $i complete. Waiting before next iteration..."
     sleep 10
