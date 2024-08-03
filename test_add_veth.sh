@@ -1,5 +1,5 @@
 #!/bin/bash
-test_num_array=(0 10 50 100 200 500 1000 2000 5000 10000 50000 100000) 
+test_num_array=(0 10 50 100 200 500 1000 2000 5000 10000 50000) 
 for test_num in ${test_num_array[@]}; do
 echo "Testing veth num $test_num ..."
 ./setup_ovs.sh

@@ -9,4 +9,7 @@ echo "Test flow and port end"
 sleep 10
 echo "The following is the test of adding veth pair time"
 ./test_add_veth.sh
+sleep 10
+echo "The following is the test of ovs cascade"
+./test_cascade.sh
 echo "Test all end"
