@@ -14,6 +14,7 @@ RUN apt-get install -y frr
 RUN apt-get install -y bridge-utils
 RUN apt-get install -y ebtables iptables
 RUN git clone https://github.com/scottchiefbaker/dool.git
+RUN git clone https://github.com/zhaodangxue/ovs_lab.git
 RUN python3 /dool/install.py
 RUN apt-get install -y net-tools
 RUN apt-get install -y ethtool
