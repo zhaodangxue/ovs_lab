@@ -14,7 +14,7 @@
 - 操作系统：Ubuntu 22.04
 - 测试工具与使用软件：`iperf` version 2.1.5   、 `ovs_version`: 2.17.9  、 `numactl`
 
-* `Dockerfile`:利用Docker容器的方式帮助你快速搭建实验环境(包括上面的一些测试工具的安装），Dockerfile文件已经给出，也可以利用如下指令快速拉取实验镜像，但是需要注意的是docker容器并不能帮助你模拟两个 `numa`节点的情况，如果想要进行完整的本实验，还是应该使用多个 `numa`节点的服务器。
+* `Dockerfile`:利用Docker容器的方式帮助你快速搭建实验环境(包括上面的一些测试工具以及测试脚本的安装），Dockerfile文件已经给出，也可以利用如下指令快速拉取实验镜像，测试脚本在根目录下的ovs_lab文件夹中。但是需要注意的是docker容器并不能帮助你模拟两个 `numa`节点的情况，如果想要进行完整的本实验，还是应该使用多个 `numa`节点的服务器。
 
   ```bash
   docker pull chairandsprite/ovs_lab:v1.3
