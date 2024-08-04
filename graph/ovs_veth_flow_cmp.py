@@ -12,10 +12,10 @@ plt.rcParams['text.color'] = '#e0e0e0'        # 文本颜色
 plt.rcParams['legend.facecolor'] = '#1a1a1a'  # 图例背景颜色，接近黑色
 plt.rcParams['legend.edgecolor'] = '#e0e0e0'  # 图例边框颜色，浅灰色
 # 数据
-flow_entries = [0, 10, 50, 100, 200, 500, 1000, 2000, 5000, 10000, 50000, 100000]
-flow_values = [0, 0, 0, 0, 0, 0, 1, 1, 4, 9, 46, 84]
-veth_entries = [0, 20, 100, 200, 400, 1000, 2000, 4000, 10000, 20000, 100000]
-veth_pairs = [0, 1, 3, 5, 10, 24, 47, 96, 262, 550, 2843]
+flow_entries = [0, 5, 25, 50, 100, 250, 500, 1000, 2500, 5000, 25000]
+flow_values = [0, 0, 0, 0, 0, 0, 1, 1, 4, 9, 46]
+veth_entries = [0, 5, 25, 50, 100, 250, 500, 1000, 2500, 5000, 25000]
+veth_pairs = [0, 1, 2, 6, 9, 24, 47, 105, 266, 644, 8098]
 
 # 创建图形
 plt.figure(figsize=(14, 7))
@@ -25,10 +25,9 @@ plt.plot(flow_entries, flow_values,  color='green', label='ovs添加流表项')
 plt.plot(veth_entries, veth_pairs,  color='orange', label='添加veth对')
 
 # 设置标题和标签
-plt.title('ovs添加流表项与添加veth对所需时间对比关系图')
-plt.xlabel('ovs添加流表项数目/条')
+plt.title('ovs添加流表项与添加veth对所需时间与构建链路数目对比关系图')
+plt.xlabel('ovs构建链路数目/条')
 plt.ylabel('时间/s')
-
 
 
 # 显示网格
