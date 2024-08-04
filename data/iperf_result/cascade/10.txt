@@ -1,0 +1,135 @@
+[ 42] local 192.168.1.2 port 38396 connected with 192.168.1.1 port 5001
+[ 37] local 192.168.1.2 port 38216 connected with 192.168.1.1 port 5001
+[ 40] local 192.168.1.2 port 38192 connected with 192.168.1.1 port 5001
+[ 27] local 192.168.1.2 port 38110 connected with 192.168.1.1 port 5001
+[ 54] local 192.168.1.2 port 38466 connected with 192.168.1.1 port 5001
+[ 15] local 192.168.1.2 port 38092 connected with 192.168.1.1 port 5001
+[ 61] local 192.168.1.2 port 38486 connected with 192.168.1.1 port 5001
+[ 55] local 192.168.1.2 port 38356 connected with 192.168.1.1 port 5001
+[ 48] local 192.168.1.2 port 38318 connected with 192.168.1.1 port 5001
+[ 47] local 192.168.1.2 port 38444 connected with 192.168.1.1 port 5001
+[ 51] local 192.168.1.2 port 38422 connected with 192.168.1.1 port 5001
+[ 46] local 192.168.1.2 port 38420 connected with 192.168.1.1 port 5001
+[  3] local 192.168.1.2 port 37942 connected with 192.168.1.1 port 5001
+[  9] local 192.168.1.2 port 38106 connected with 192.168.1.1 port 5001
+[ 30] local 192.168.1.2 port 38394 connected with 192.168.1.1 port 5001
+[ 43] local 192.168.1.2 port 38210 connected with 192.168.1.1 port 5001
+[ 35] local 192.168.1.2 port 38194 connected with 192.168.1.1 port 5001
+[  6] local 192.168.1.2 port 38052 connected with 192.168.1.1 port 5001
+[ 33] local 192.168.1.2 port 38158 connected with 192.168.1.1 port 5001
+[ 34] local 192.168.1.2 port 38096 connected with 192.168.1.1 port 5001
+------------------------------------------------------------
+Client connecting to 192.168.1.1, TCP port 5001
+TCP window size: 85.0 KByte (default)
+------------------------------------------------------------
+[ 29] local 192.168.1.2 port 38098 connected with 192.168.1.1 port 5001
+[ 31] local 192.168.1.2 port 38140 connected with 192.168.1.1 port 5001
+[ 32] local 192.168.1.2 port 38094 connected with 192.168.1.1 port 5001
+[  5] local 192.168.1.2 port 38084 connected with 192.168.1.1 port 5001
+[ 62] local 192.168.1.2 port 38498 connected with 192.168.1.1 port 5001
+[ 56] local 192.168.1.2 port 38402 connected with 192.168.1.1 port 5001
+[ 23] local 192.168.1.2 port 38108 connected with 192.168.1.1 port 5001
+[ 50] local 192.168.1.2 port 38328 connected with 192.168.1.1 port 5001
+[ 60] local 192.168.1.2 port 38472 connected with 192.168.1.1 port 5001
+[  4] local 192.168.1.2 port 37946 connected with 192.168.1.1 port 5001
+[ 10] local 192.168.1.2 port 37944 connected with 192.168.1.1 port 5001
+[ 41] local 192.168.1.2 port 38390 connected with 192.168.1.1 port 5001
+[ 64] local 192.168.1.2 port 38508 connected with 192.168.1.1 port 5001
+[ 26] local 192.168.1.2 port 38088 connected with 192.168.1.1 port 5001
+[ 21] local 192.168.1.2 port 38018 connected with 192.168.1.1 port 5001
+[ 12] local 192.168.1.2 port 38024 connected with 192.168.1.1 port 5001
+[ 25] local 192.168.1.2 port 38030 connected with 192.168.1.1 port 5001
+[ 16] local 192.168.1.2 port 38022 connected with 192.168.1.1 port 5001
+[ 52] local 192.168.1.2 port 38344 connected with 192.168.1.1 port 5001
+[ 28] local 192.168.1.2 port 38120 connected with 192.168.1.1 port 5001
+[ 57] local 192.168.1.2 port 38090 connected with 192.168.1.1 port 5001
+[  1] local 192.168.1.2 port 38020 connected with 192.168.1.1 port 5001
+[  8] local 192.168.1.2 port 38104 connected with 192.168.1.1 port 5001
+[ 58] local 192.168.1.2 port 37994 connected with 192.168.1.1 port 5001
+[ 63] local 192.168.1.2 port 38518 connected with 192.168.1.1 port 5001
+[ 11] local 192.168.1.2 port 37978 connected with 192.168.1.1 port 5001
+[ 36] local 192.168.1.2 port 38136 connected with 192.168.1.1 port 5001
+[ 24] local 192.168.1.2 port 38102 connected with 192.168.1.1 port 5001
+[  7] local 192.168.1.2 port 37964 connected with 192.168.1.1 port 5001
+[ 44] local 192.168.1.2 port 38326 connected with 192.168.1.1 port 5001
+[ 38] local 192.168.1.2 port 38174 connected with 192.168.1.1 port 5001
+[ 17] local 192.168.1.2 port 38138 connected with 192.168.1.1 port 5001
+[ 49] local 192.168.1.2 port 38450 connected with 192.168.1.1 port 5001
+[ 59] local 192.168.1.2 port 38452 connected with 192.168.1.1 port 5001
+[ 39] local 192.168.1.2 port 38170 connected with 192.168.1.1 port 5001
+[ 22] local 192.168.1.2 port 38218 connected with 192.168.1.1 port 5001
+[ 18] local 192.168.1.2 port 38064 connected with 192.168.1.1 port 5001
+[ 13] local 192.168.1.2 port 38016 connected with 192.168.1.1 port 5001
+[ 14] local 192.168.1.2 port 38086 connected with 192.168.1.1 port 5001
+[  2] local 192.168.1.2 port 38054 connected with 192.168.1.1 port 5001
+[ 20] local 192.168.1.2 port 38100 connected with 192.168.1.1 port 5001
+[ 19] local 192.168.1.2 port 38006 connected with 192.168.1.1 port 5001
+[ 45] local 192.168.1.2 port 38172 connected with 192.168.1.1 port 5001
+[ 53] local 192.168.1.2 port 38392 connected with 192.168.1.1 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 37] 0.0000-60.0028 sec   208 GBytes  29.8 Gbits/sec
+[ 16] 0.0000-60.0020 sec   191 GBytes  27.3 Gbits/sec
+[ 41] 0.0000-60.0026 sec   216 GBytes  30.9 Gbits/sec
+[ 44] 0.0000-60.0030 sec   195 GBytes  27.9 Gbits/sec
+[ 19] 0.0000-60.0027 sec   192 GBytes  27.5 Gbits/sec
+[ 15] 0.0000-60.0025 sec   213 GBytes  30.5 Gbits/sec
+[ 55] 0.0000-60.0026 sec   189 GBytes  27.1 Gbits/sec
+[ 29] 0.0000-60.0018 sec   201 GBytes  28.8 Gbits/sec
+[  6] 0.0000-60.0026 sec   182 GBytes  26.0 Gbits/sec
+[ 56] 0.0000-60.0021 sec   222 GBytes  31.8 Gbits/sec
+[ 52] 0.0000-60.0025 sec   192 GBytes  27.4 Gbits/sec
+[ 22] 0.0000-60.0019 sec   191 GBytes  27.4 Gbits/sec
+[ 48] 0.0000-60.0028 sec   197 GBytes  28.3 Gbits/sec
+[  4] 0.0000-60.0026 sec   188 GBytes  26.9 Gbits/sec
+[ 38] 0.0000-60.0019 sec   201 GBytes  28.8 Gbits/sec
+[  3] 0.0000-60.0027 sec   198 GBytes  28.3 Gbits/sec
+[ 57] 0.0000-60.0017 sec   201 GBytes  28.8 Gbits/sec
+[ 46] 0.0000-60.0020 sec   212 GBytes  30.3 Gbits/sec
+[ 61] 0.0000-60.0025 sec   208 GBytes  29.7 Gbits/sec
+[  5] 0.0000-60.0022 sec   191 GBytes  27.3 Gbits/sec
+[ 18] 0.0000-60.0015 sec   189 GBytes  27.1 Gbits/sec
+[ 10] 0.0000-60.0014 sec   189 GBytes  27.0 Gbits/sec
+[  2] 0.0000-60.0021 sec   193 GBytes  27.7 Gbits/sec
+[ 47] 0.0000-60.0019 sec   212 GBytes  30.3 Gbits/sec
+[ 40] 0.0000-60.0015 sec   193 GBytes  27.6 Gbits/sec
+[ 30] 0.0000-60.0017 sec   205 GBytes  29.4 Gbits/sec
+[ 27] 0.0000-60.0017 sec   176 GBytes  25.1 Gbits/sec
+[ 60] 0.0000-60.0018 sec   192 GBytes  27.5 Gbits/sec
+[ 26] 0.0000-60.0019 sec   201 GBytes  28.8 Gbits/sec
+[ 23] 0.0000-60.0022 sec   215 GBytes  30.8 Gbits/sec
+[ 14] 0.0000-60.0020 sec   188 GBytes  27.0 Gbits/sec
+[ 63] 0.0000-60.0009 sec   193 GBytes  27.6 Gbits/sec
+[ 64] 0.0000-60.0031 sec   218 GBytes  31.2 Gbits/sec
+[ 58] 0.0000-60.0018 sec   185 GBytes  26.4 Gbits/sec
+[ 36] 0.0000-60.0018 sec   187 GBytes  26.8 Gbits/sec
+[ 33] 0.0000-60.0021 sec   206 GBytes  29.4 Gbits/sec
+[ 34] 0.0000-60.0017 sec   218 GBytes  31.1 Gbits/sec
+[ 32] 0.0000-60.0017 sec   195 GBytes  27.9 Gbits/sec
+[ 35] 0.0000-60.0019 sec   213 GBytes  30.5 Gbits/sec
+[ 25] 0.0000-60.0016 sec   192 GBytes  27.5 Gbits/sec
+[ 42] 0.0000-60.0025 sec   219 GBytes  31.4 Gbits/sec
+[ 31] 0.0000-60.0017 sec   204 GBytes  29.1 Gbits/sec
+[  8] 0.0000-60.0022 sec   185 GBytes  26.5 Gbits/sec
+[  9] 0.0000-60.0026 sec   215 GBytes  30.8 Gbits/sec
+[ 51] 0.0000-60.0022 sec   204 GBytes  29.2 Gbits/sec
+[ 49] 0.0000-60.0011 sec   212 GBytes  30.4 Gbits/sec
+[ 13] 0.0000-60.0011 sec   197 GBytes  28.2 Gbits/sec
+[ 45] 0.0000-60.0032 sec   188 GBytes  26.9 Gbits/sec
+[ 53] 0.0000-60.0028 sec   211 GBytes  30.3 Gbits/sec
+[ 54] 0.0000-60.0023 sec   218 GBytes  31.3 Gbits/sec
+[ 12] 0.0000-60.0016 sec   182 GBytes  26.0 Gbits/sec
+[ 43] 0.0000-60.0018 sec   187 GBytes  26.8 Gbits/sec
+[ 17] 0.0000-60.0017 sec   211 GBytes  30.2 Gbits/sec
+[ 59] 0.0000-60.0013 sec   185 GBytes  26.5 Gbits/sec
+[ 24] 0.0000-60.0020 sec   199 GBytes  28.4 Gbits/sec
+[  1] 0.0000-60.0022 sec   206 GBytes  29.5 Gbits/sec
+[  7] 0.0000-60.0017 sec   185 GBytes  26.5 Gbits/sec
+[ 20] 0.0000-60.0020 sec   205 GBytes  29.3 Gbits/sec
+[ 62] 0.0000-60.0020 sec   192 GBytes  27.5 Gbits/sec
+[ 39] 0.0000-60.0022 sec   188 GBytes  27.0 Gbits/sec
+[ 28] 0.0000-60.0028 sec   214 GBytes  30.6 Gbits/sec
+[ 21] 0.0000-60.0020 sec   215 GBytes  30.8 Gbits/sec
+[ 11] 0.0000-60.0027 sec   181 GBytes  25.9 Gbits/sec
+[ 50] 0.0000-61.0028 sec   201 GBytes  28.2 Gbits/sec
+[SUM] 0.0000-60.0005 sec  12.5 TBytes  1.83 Tbits/sec
+[ CT] final connect times (min/avg/max/stdev) = 0.113/4.558/5.362/1.058 ms (tot/err) = 64/0

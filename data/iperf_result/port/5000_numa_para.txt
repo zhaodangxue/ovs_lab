@@ -1,0 +1,505 @@
+
+[ 20] local 192.100.1.3 port 58704 connected with 192.100.1.2 port 5001
+[  7] local 192.100.1.3 port 58538 connected with 192.100.1.2 port 5001
+[ 13] local 192.100.1.3 port 58510 connected with 192.100.1.2 port 5001
+[ 15] local 192.100.1.3 port 58512 connected with 192.100.1.2 port 5001
+[  9] local 192.100.1.3 port 58506 connected with 192.100.1.2 port 5001
+[ 25] local 192.100.1.3 port 58756 connected with 192.100.1.2 port 5001
+[ 24] local 192.100.1.3 port 58686 connected with 192.100.1.2 port 5001
+[ 17] local 192.100.1.3 port 58540 connected with 192.100.1.2 port 5001
+[ 32] local 192.100.1.3 port 58772 connected with 192.100.1.2 port 5001
+[ 18] local 192.100.1.3 port 58628 connected with 192.100.1.2 port 5001
+[ 16] local 192.100.1.3 port 58518 connected with 192.100.1.2 port 5001
+[ 11] local 192.100.1.3 port 58562 connected with 192.100.1.2 port 5001
+[  2] local 192.100.1.3 port 58492 connected with 192.100.1.2 port 5001
+[ 19] local 192.100.1.3 port 58586 connected with 192.100.1.2 port 5001
+[ 23] local 192.100.1.3 port 58578 connected with 192.100.1.2 port 5001
+[ 21] local 192.100.1.3 port 58702 connected with 192.100.1.2 port 5001
+------------------------------------------------------------
+Client connecting to 192.100.1.2, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[ 12] local 192.100.1.3 port 58546 connected with 192.100.1.2 port 5001
+[  6] local 192.100.1.3 port 58502 connected with 192.100.1.2 port 5001
+[  1] local 192.100.1.3 port 58504 connected with 192.100.1.2 port 5001
+[ 29] local 192.100.1.3 port 58748 connected with 192.100.1.2 port 5001
+[ 26] local 192.100.1.3 port 58728 connected with 192.100.1.2 port 5001
+[  4] local 192.100.1.3 port 58494 connected with 192.100.1.2 port 5001
+[ 10] local 192.100.1.3 port 58496 connected with 192.100.1.2 port 5001
+[ 14] local 192.100.1.3 port 58580 connected with 192.100.1.2 port 5001
+[ 27] local 192.100.1.3 port 58778 connected with 192.100.1.2 port 5001
+[ 31] local 192.100.1.3 port 58770 connected with 192.100.1.2 port 5001
+[ 30] local 192.100.1.3 port 58750 connected with 192.100.1.2 port 5001
+[  8] local 192.100.1.3 port 58500 connected with 192.100.1.2 port 5001
+[ 22] local 192.100.1.3 port 58498 connected with 192.100.1.2 port 5001
+[ 28] local 192.100.1.3 port 58738 connected with 192.100.1.2 port 5001
+[  5] local 192.100.1.3 port 58734 connected with 192.100.1.2 port 5001
+[  3] local 192.100.1.3 port 58508 connected with 192.100.1.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 26] 0.0000-60.0007 sec   192 GBytes  27.5 Gbits/sec
+[  9] 0.0000-60.0010 sec   189 GBytes  27.0 Gbits/sec
+[ 15] 0.0000-60.0005 sec   196 GBytes  28.1 Gbits/sec
+[  7] 0.0000-60.0009 sec   186 GBytes  26.6 Gbits/sec
+[ 11] 0.0000-60.0006 sec   188 GBytes  27.0 Gbits/sec
+[ 12] 0.0000-60.0008 sec   187 GBytes  26.7 Gbits/sec
+[ 31] 0.0000-60.0005 sec   190 GBytes  27.3 Gbits/sec
+[ 21] 0.0000-60.0004 sec   187 GBytes  26.7 Gbits/sec
+[ 27] 0.0000-60.0009 sec   188 GBytes  26.9 Gbits/sec
+[ 19] 0.0000-60.0008 sec   191 GBytes  27.3 Gbits/sec
+[ 24] 0.0000-60.0005 sec   191 GBytes  27.3 Gbits/sec
+[ 17] 0.0000-60.0006 sec   192 GBytes  27.6 Gbits/sec
+[ 29] 0.0000-60.0008 sec   185 GBytes  26.5 Gbits/sec
+[ 14] 0.0000-60.0007 sec   195 GBytes  27.8 Gbits/sec
+[ 20] 0.0000-60.0011 sec   189 GBytes  27.0 Gbits/sec
+[  3] 0.0000-60.0007 sec   190 GBytes  27.2 Gbits/sec
+[ 13] 0.0000-60.0007 sec   188 GBytes  26.9 Gbits/sec
+[ 10] 0.0000-60.0009 sec   187 GBytes  26.8 Gbits/sec
+[ 18] 0.0000-60.0006 sec   187 GBytes  26.7 Gbits/sec
+[  1] 0.0000-60.0006 sec   191 GBytes  27.3 Gbits/sec
+[ 30] 0.0000-60.0008 sec   191 GBytes  27.3 Gbits/sec
+[ 16] 0.0000-60.0010 sec   185 GBytes  26.5 Gbits/sec
+[  5] 0.0000-60.0009 sec   189 GBytes  27.0 Gbits/sec
+[  4] 0.0000-60.0008 sec   189 GBytes  27.0 Gbits/sec
+[ 32] 0.0000-60.0010 sec   188 GBytes  26.9 Gbits/sec
+[  6] 0.0000-60.0009 sec   187 GBytes  26.7 Gbits/sec
+[ 22] 0.0000-60.0008 sec   187 GBytes  26.8 Gbits/sec
+[ 25] 0.0000-60.0005 sec   190 GBytes  27.2 Gbits/sec
+[ 28] 0.0000-60.0011 sec   194 GBytes  27.8 Gbits/sec
+[ 23] 0.0000-60.0011 sec   190 GBytes  27.3 Gbits/sec
+[  8] 0.0000-61.0008 sec   187 GBytes  26.3 Gbits/sec
+[  2] 0.0000-61.0006 sec   195 GBytes  27.4 Gbits/sec
+[SUM] 0.0000-60.0000 sec  5.92 TBytes   868 Gbits/sec
+[ CT] final connect times (min/avg/max/stdev) = 0.758/3.006/55.309/9.551 ms (tot/err) = 32/0
+Iteration 1 complete. Waiting before next iteration...
+[  5] local 192.100.1.3 port 34562 connected with 192.100.1.2 port 5001
+[ 32] local 192.100.1.3 port 34808 connected with 192.100.1.2 port 5001
+[ 20] local 192.100.1.3 port 34776 connected with 192.100.1.2 port 5001
+[ 21] local 192.100.1.3 port 34846 connected with 192.100.1.2 port 5001
+[  4] local 192.100.1.3 port 34704 connected with 192.100.1.2 port 5001
+------------------------------------------------------------
+Client connecting to 192.100.1.2, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  1] local 192.100.1.3 port 34548 connected with 192.100.1.2 port 5001
+[ 17] local 192.100.1.3 port 34594 connected with 192.100.1.2 port 5001
+[ 29] local 192.100.1.3 port 34838 connected with 192.100.1.2 port 5001
+[ 16] local 192.100.1.3 port 34626 connected with 192.100.1.2 port 5001
+[ 28] local 192.100.1.3 port 34792 connected with 192.100.1.2 port 5001
+[ 14] local 192.100.1.3 port 34706 connected with 192.100.1.2 port 5001
+[ 13] local 192.100.1.3 port 34560 connected with 192.100.1.2 port 5001
+[ 12] local 192.100.1.3 port 34592 connected with 192.100.1.2 port 5001
+[ 10] local 192.100.1.3 port 34582 connected with 192.100.1.2 port 5001
+[ 15] local 192.100.1.3 port 34584 connected with 192.100.1.2 port 5001
+[ 30] local 192.100.1.3 port 34802 connected with 192.100.1.2 port 5001
+[ 22] local 192.100.1.3 port 34748 connected with 192.100.1.2 port 5001
+[  6] local 192.100.1.3 port 34556 connected with 192.100.1.2 port 5001
+[  9] local 192.100.1.3 port 34550 connected with 192.100.1.2 port 5001
+[  3] local 192.100.1.3 port 34552 connected with 192.100.1.2 port 5001
+[  7] local 192.100.1.3 port 34568 connected with 192.100.1.2 port 5001
+[ 11] local 192.100.1.3 port 34566 connected with 192.100.1.2 port 5001
+[ 19] local 192.100.1.3 port 34764 connected with 192.100.1.2 port 5001
+[  2] local 192.100.1.3 port 34564 connected with 192.100.1.2 port 5001
+[ 23] local 192.100.1.3 port 34824 connected with 192.100.1.2 port 5001
+[ 26] local 192.100.1.3 port 34848 connected with 192.100.1.2 port 5001
+[ 18] local 192.100.1.3 port 34554 connected with 192.100.1.2 port 5001
+[ 31] local 192.100.1.3 port 34800 connected with 192.100.1.2 port 5001
+[ 27] local 192.100.1.3 port 34860 connected with 192.100.1.2 port 5001
+[  8] local 192.100.1.3 port 34558 connected with 192.100.1.2 port 5001
+[ 25] local 192.100.1.3 port 34784 connected with 192.100.1.2 port 5001
+[ 24] local 192.100.1.3 port 34796 connected with 192.100.1.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-60.0159 sec   187 GBytes  26.8 Gbits/sec
+[ 24] 0.0000-60.0158 sec   190 GBytes  27.2 Gbits/sec
+[ 17] 0.0000-60.0159 sec   192 GBytes  27.5 Gbits/sec
+[ 23] 0.0000-60.0158 sec   185 GBytes  26.5 Gbits/sec
+[ 20] 0.0000-60.0157 sec   189 GBytes  27.1 Gbits/sec
+[  5] 0.0000-60.0158 sec   189 GBytes  27.0 Gbits/sec
+[ 32] 0.0000-60.0157 sec   193 GBytes  27.7 Gbits/sec
+[ 11] 0.0000-60.0158 sec   193 GBytes  27.6 Gbits/sec
+[ 27] 0.0000-60.0157 sec   194 GBytes  27.7 Gbits/sec
+[ 15] 0.0000-60.0157 sec   192 GBytes  27.5 Gbits/sec
+[  7] 0.0000-60.0159 sec   190 GBytes  27.2 Gbits/sec
+[  3] 0.0000-60.0158 sec   194 GBytes  27.7 Gbits/sec
+[  6] 0.0000-60.0158 sec   192 GBytes  27.5 Gbits/sec
+[ 18] 0.0000-60.0158 sec   195 GBytes  27.9 Gbits/sec
+[ 29] 0.0000-60.0157 sec   189 GBytes  27.0 Gbits/sec
+[  8] 0.0000-60.0159 sec   193 GBytes  27.6 Gbits/sec
+[ 16] 0.0000-60.0159 sec   189 GBytes  27.0 Gbits/sec
+[ 14] 0.0000-60.0157 sec   187 GBytes  26.7 Gbits/sec
+[ 21] 0.0000-60.0158 sec   193 GBytes  27.7 Gbits/sec
+[ 26] 0.0000-60.0157 sec   196 GBytes  28.1 Gbits/sec
+[ 22] 0.0000-60.0157 sec   192 GBytes  27.5 Gbits/sec
+[  4] 0.0000-60.0158 sec   192 GBytes  27.5 Gbits/sec
+[  2] 0.0000-60.0159 sec   193 GBytes  27.6 Gbits/sec
+[ 10] 0.0000-60.0157 sec   190 GBytes  27.1 Gbits/sec
+[ 13] 0.0000-60.0159 sec   192 GBytes  27.5 Gbits/sec
+[ 30] 0.0000-60.0157 sec   188 GBytes  26.9 Gbits/sec
+[ 12] 0.0000-60.0157 sec   189 GBytes  27.1 Gbits/sec
+[ 25] 0.0000-60.0158 sec   196 GBytes  28.0 Gbits/sec
+[ 28] 0.0000-60.0158 sec   190 GBytes  27.3 Gbits/sec
+[  9] 0.0000-60.0159 sec   190 GBytes  27.2 Gbits/sec
+[ 19] 0.0000-60.0158 sec   192 GBytes  27.4 Gbits/sec
+[ 31] 0.0000-60.0159 sec   191 GBytes  27.3 Gbits/sec
+[SUM] 0.0000-60.0001 sec  5.97 TBytes   876 Gbits/sec
+[ CT] final connect times (min/avg/max/stdev) = 0.736/1.427/2.220/0.327 ms (tot/err) = 32/0
+Iteration 2 complete. Waiting before next iteration...
+[  8] local 192.100.1.3 port 60212 connected with 192.100.1.2 port 5001
+[ 32] local 192.100.1.3 port 60448 connected with 192.100.1.2 port 5001
+[ 31] local 192.100.1.3 port 60438 connected with 192.100.1.2 port 5001
+[ 30] local 192.100.1.3 port 60470 connected with 192.100.1.2 port 5001
+[  7] local 192.100.1.3 port 60240 connected with 192.100.1.2 port 5001
+[  4] local 192.100.1.3 port 60204 connected with 192.100.1.2 port 5001
+[  2] local 192.100.1.3 port 60200 connected with 192.100.1.2 port 5001
+[ 26] local 192.100.1.3 port 60454 connected with 192.100.1.2 port 5001
+[ 10] local 192.100.1.3 port 60248 connected with 192.100.1.2 port 5001
+[ 12] local 192.100.1.3 port 60290 connected with 192.100.1.2 port 5001
+[  6] local 192.100.1.3 port 60202 connected with 192.100.1.2 port 5001
+[ 24] local 192.100.1.3 port 60412 connected with 192.100.1.2 port 5001
+[ 29] local 192.100.1.3 port 60482 connected with 192.100.1.2 port 5001
+[ 11] local 192.100.1.3 port 60196 connected with 192.100.1.2 port 5001
+[ 20] local 192.100.1.3 port 60318 connected with 192.100.1.2 port 5001
+[ 19] local 192.100.1.3 port 60380 connected with 192.100.1.2 port 5001
+[ 27] local 192.100.1.3 port 60492 connected with 192.100.1.2 port 5001
+[ 14] local 192.100.1.3 port 60352 connected with 192.100.1.2 port 5001
+[ 22] local 192.100.1.3 port 60426 connected with 192.100.1.2 port 5001
+[ 23] local 192.100.1.3 port 60330 connected with 192.100.1.2 port 5001
+[ 25] local 192.100.1.3 port 60440 connected with 192.100.1.2 port 5001
+[ 15] local 192.100.1.3 port 60214 connected with 192.100.1.2 port 5001
+[  3] local 192.100.1.3 port 60194 connected with 192.100.1.2 port 5001
+------------------------------------------------------------
+Client connecting to 192.100.1.2, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[ 18] local 192.100.1.3 port 60392 connected with 192.100.1.2 port 5001
+[  1] local 192.100.1.3 port 60198 connected with 192.100.1.2 port 5001
+[ 16] local 192.100.1.3 port 60316 connected with 192.100.1.2 port 5001
+[ 21] local 192.100.1.3 port 60400 connected with 192.100.1.2 port 5001
+[ 17] local 192.100.1.3 port 60372 connected with 192.100.1.2 port 5001
+[ 13] local 192.100.1.3 port 60350 connected with 192.100.1.2 port 5001
+[  9] local 192.100.1.3 port 60206 connected with 192.100.1.2 port 5001
+[ 28] local 192.100.1.3 port 60370 connected with 192.100.1.2 port 5001
+[  5] local 192.100.1.3 port 60192 connected with 192.100.1.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 14] 0.0000-60.0043 sec   187 GBytes  26.8 Gbits/sec
+[ 26] 0.0000-60.0040 sec   194 GBytes  27.8 Gbits/sec
+[  1] 0.0000-60.0045 sec   187 GBytes  26.8 Gbits/sec
+[ 17] 0.0000-60.0043 sec   189 GBytes  27.1 Gbits/sec
+[  2] 0.0000-60.0042 sec   191 GBytes  27.3 Gbits/sec
+[  3] 0.0000-60.0040 sec   186 GBytes  26.6 Gbits/sec
+[ 22] 0.0000-60.0040 sec   187 GBytes  26.7 Gbits/sec
+[  9] 0.0000-60.0044 sec   193 GBytes  27.7 Gbits/sec
+[ 24] 0.0000-60.0044 sec   192 GBytes  27.4 Gbits/sec
+[ 15] 0.0000-60.0041 sec   189 GBytes  27.1 Gbits/sec
+[  6] 0.0000-60.0042 sec   190 GBytes  27.2 Gbits/sec
+[  7] 0.0000-60.0040 sec   192 GBytes  27.5 Gbits/sec
+[ 32] 0.0000-60.0039 sec   192 GBytes  27.5 Gbits/sec
+[ 12] 0.0000-60.0039 sec   187 GBytes  26.8 Gbits/sec
+[ 30] 0.0000-60.0040 sec   187 GBytes  26.8 Gbits/sec
+[ 18] 0.0000-60.0044 sec   192 GBytes  27.5 Gbits/sec
+[ 10] 0.0000-60.0042 sec   189 GBytes  27.1 Gbits/sec
+[ 25] 0.0000-60.0045 sec   190 GBytes  27.2 Gbits/sec
+[ 11] 0.0000-60.0044 sec   190 GBytes  27.2 Gbits/sec
+[ 19] 0.0000-60.0041 sec   192 GBytes  27.4 Gbits/sec
+[ 31] 0.0000-60.0043 sec   189 GBytes  27.1 Gbits/sec
+[ 20] 0.0000-60.0043 sec   186 GBytes  26.6 Gbits/sec
+[ 13] 0.0000-60.0041 sec   188 GBytes  27.0 Gbits/sec
+[  8] 0.0000-60.0039 sec   188 GBytes  26.9 Gbits/sec
+[ 27] 0.0000-60.0044 sec   190 GBytes  27.2 Gbits/sec
+[ 16] 0.0000-60.0043 sec   187 GBytes  26.8 Gbits/sec
+[ 23] 0.0000-60.0042 sec   187 GBytes  26.8 Gbits/sec
+[  5] 0.0000-60.0039 sec   183 GBytes  26.2 Gbits/sec
+[ 21] 0.0000-60.0041 sec   191 GBytes  27.3 Gbits/sec
+[ 28] 0.0000-60.0042 sec   193 GBytes  27.6 Gbits/sec
+[  4] 0.0000-60.0044 sec   190 GBytes  27.2 Gbits/sec
+[ 29] 0.0000-61.0044 sec   189 GBytes  26.6 Gbits/sec
+[SUM] 0.0000-60.0001 sec  5.92 TBytes   867 Gbits/sec
+[ CT] final connect times (min/avg/max/stdev) = 0.084/4.134/58.239/14.182 ms (tot/err) = 32/0
+Iteration 3 complete. Waiting before next iteration...
+[ 21] local 192.100.1.3 port 44440 connected with 192.100.1.2 port 5001
+[  9] local 192.100.1.3 port 44356 connected with 192.100.1.2 port 5001
+[ 16] local 192.100.1.3 port 44380 connected with 192.100.1.2 port 5001
+[  8] local 192.100.1.3 port 44406 connected with 192.100.1.2 port 5001
+------------------------------------------------------------
+Client connecting to 192.100.1.2, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[ 12] local 192.100.1.3 port 44364 connected with 192.100.1.2 port 5001
+[  4] local 192.100.1.3 port 44370 connected with 192.100.1.2 port 5001
+[  5] local 192.100.1.3 port 44368 connected with 192.100.1.2 port 5001
+[ 17] local 192.100.1.3 port 44360 connected with 192.100.1.2 port 5001
+[ 30] local 192.100.1.3 port 44684 connected with 192.100.1.2 port 5001
+[ 26] local 192.100.1.3 port 44676 connected with 192.100.1.2 port 5001
+[  3] local 192.100.1.3 port 44372 connected with 192.100.1.2 port 5001
+[  1] local 192.100.1.3 port 44382 connected with 192.100.1.2 port 5001
+[ 14] local 192.100.1.3 port 44366 connected with 192.100.1.2 port 5001
+[  2] local 192.100.1.3 port 44376 connected with 192.100.1.2 port 5001
+[ 10] local 192.100.1.3 port 44384 connected with 192.100.1.2 port 5001
+[  7] local 192.100.1.3 port 44354 connected with 192.100.1.2 port 5001
+[  6] local 192.100.1.3 port 44358 connected with 192.100.1.2 port 5001
+[ 23] local 192.100.1.3 port 44446 connected with 192.100.1.2 port 5001
+[ 19] local 192.100.1.3 port 44460 connected with 192.100.1.2 port 5001
+[ 20] local 192.100.1.3 port 44374 connected with 192.100.1.2 port 5001
+[ 31] local 192.100.1.3 port 44660 connected with 192.100.1.2 port 5001
+[ 27] local 192.100.1.3 port 44692 connected with 192.100.1.2 port 5001
+[ 15] local 192.100.1.3 port 44378 connected with 192.100.1.2 port 5001
+[ 28] local 192.100.1.3 port 44712 connected with 192.100.1.2 port 5001
+[ 29] local 192.100.1.3 port 44696 connected with 192.100.1.2 port 5001
+[ 18] local 192.100.1.3 port 44526 connected with 192.100.1.2 port 5001
+[ 32] local 192.100.1.3 port 44662 connected with 192.100.1.2 port 5001
+[ 11] local 192.100.1.3 port 44438 connected with 192.100.1.2 port 5001
+[ 13] local 192.100.1.3 port 44362 connected with 192.100.1.2 port 5001
+[ 25] local 192.100.1.3 port 44650 connected with 192.100.1.2 port 5001
+[ 22] local 192.100.1.3 port 44644 connected with 192.100.1.2 port 5001
+[ 24] local 192.100.1.3 port 44686 connected with 192.100.1.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[  3] 0.0000-60.0029 sec   189 GBytes  27.1 Gbits/sec
+[ 14] 0.0000-60.0029 sec   189 GBytes  27.0 Gbits/sec
+[ 29] 0.0000-60.0032 sec   187 GBytes  26.8 Gbits/sec
+[  9] 0.0000-60.0032 sec   188 GBytes  27.0 Gbits/sec
+[ 16] 0.0000-60.0030 sec   189 GBytes  27.0 Gbits/sec
+[  5] 0.0000-60.0031 sec   191 GBytes  27.3 Gbits/sec
+[ 30] 0.0000-60.0031 sec   188 GBytes  26.8 Gbits/sec
+[  4] 0.0000-60.0031 sec   189 GBytes  27.1 Gbits/sec
+[ 21] 0.0000-60.0029 sec   188 GBytes  26.9 Gbits/sec
+[  6] 0.0000-60.0031 sec   187 GBytes  26.8 Gbits/sec
+[  2] 0.0000-60.0029 sec   188 GBytes  27.0 Gbits/sec
+[ 13] 0.0000-60.0029 sec   188 GBytes  26.9 Gbits/sec
+[  7] 0.0000-60.0033 sec   191 GBytes  27.3 Gbits/sec
+[ 27] 0.0000-60.0032 sec   188 GBytes  27.0 Gbits/sec
+[ 22] 0.0000-60.0032 sec   190 GBytes  27.2 Gbits/sec
+[  1] 0.0000-60.0032 sec   187 GBytes  26.8 Gbits/sec
+[ 24] 0.0000-60.0033 sec   188 GBytes  27.0 Gbits/sec
+[ 25] 0.0000-60.0030 sec   196 GBytes  28.0 Gbits/sec
+[ 17] 0.0000-60.0028 sec   186 GBytes  26.6 Gbits/sec
+[ 23] 0.0000-60.0033 sec   192 GBytes  27.4 Gbits/sec
+[ 18] 0.0000-60.0030 sec   191 GBytes  27.4 Gbits/sec
+[  8] 0.0000-60.0034 sec   188 GBytes  26.9 Gbits/sec
+[ 20] 0.0000-60.0030 sec   187 GBytes  26.8 Gbits/sec
+[ 15] 0.0000-60.0031 sec   192 GBytes  27.4 Gbits/sec
+[ 31] 0.0000-60.0033 sec   188 GBytes  26.9 Gbits/sec
+[ 12] 0.0000-60.0028 sec   185 GBytes  26.5 Gbits/sec
+[ 28] 0.0000-60.0028 sec   190 GBytes  27.2 Gbits/sec
+[ 11] 0.0000-60.0032 sec   187 GBytes  26.8 Gbits/sec
+[ 10] 0.0000-60.0030 sec   185 GBytes  26.5 Gbits/sec
+[ 19] 0.0000-60.0033 sec   188 GBytes  26.9 Gbits/sec
+[ 26] 0.0000-61.0033 sec   188 GBytes  26.4 Gbits/sec
+[ 32] 0.0000-61.0031 sec   188 GBytes  26.5 Gbits/sec
+[SUM] 0.0000-60.0001 sec  5.89 TBytes   864 Gbits/sec
+[ CT] final connect times (min/avg/max/stdev) = 0.035/0.056/0.106/0.018 ms (tot/err) = 32/0
+Iteration 4 complete. Waiting before next iteration...
+[  3] local 192.100.1.3 port 42960 connected with 192.100.1.2 port 5001
+[ 20] local 192.100.1.3 port 43096 connected with 192.100.1.2 port 5001
+[  2] local 192.100.1.3 port 42982 connected with 192.100.1.2 port 5001
+[ 16] local 192.100.1.3 port 43014 connected with 192.100.1.2 port 5001
+[ 12] local 192.100.1.3 port 43092 connected with 192.100.1.2 port 5001
+[ 13] local 192.100.1.3 port 42980 connected with 192.100.1.2 port 5001
+[  9] local 192.100.1.3 port 42952 connected with 192.100.1.2 port 5001
+[  4] local 192.100.1.3 port 42958 connected with 192.100.1.2 port 5001
+[  6] local 192.100.1.3 port 42950 connected with 192.100.1.2 port 5001
+[ 11] local 192.100.1.3 port 42956 connected with 192.100.1.2 port 5001
+[  8] local 192.100.1.3 port 42964 connected with 192.100.1.2 port 5001
+[  7] local 192.100.1.3 port 43002 connected with 192.100.1.2 port 5001
+[ 14] local 192.100.1.3 port 43012 connected with 192.100.1.2 port 5001
+[ 18] local 192.100.1.3 port 43078 connected with 192.100.1.2 port 5001
+[ 15] local 192.100.1.3 port 43098 connected with 192.100.1.2 port 5001
+[  1] local 192.100.1.3 port 42954 connected with 192.100.1.2 port 5001
+[ 31] local 192.100.1.3 port 43140 connected with 192.100.1.2 port 5001
+[  5] local 192.100.1.3 port 43004 connected with 192.100.1.2 port 5001
+[ 24] local 192.100.1.3 port 43160 connected with 192.100.1.2 port 5001
+[ 28] local 192.100.1.3 port 43184 connected with 192.100.1.2 port 5001
+------------------------------------------------------------
+Client connecting to 192.100.1.2, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[ 17] local 192.100.1.3 port 43114 connected with 192.100.1.2 port 5001
+[ 19] local 192.100.1.3 port 43120 connected with 192.100.1.2 port 5001
+[ 32] local 192.100.1.3 port 43152 connected with 192.100.1.2 port 5001
+[ 25] local 192.100.1.3 port 43176 connected with 192.100.1.2 port 5001
+[ 23] local 192.100.1.3 port 43118 connected with 192.100.1.2 port 5001
+[ 22] local 192.100.1.3 port 43132 connected with 192.100.1.2 port 5001
+[ 10] local 192.100.1.3 port 42962 connected with 192.100.1.2 port 5001
+[ 21] local 192.100.1.3 port 43116 connected with 192.100.1.2 port 5001
+[ 30] local 192.100.1.3 port 43224 connected with 192.100.1.2 port 5001
+[ 27] local 192.100.1.3 port 43210 connected with 192.100.1.2 port 5001
+[ 26] local 192.100.1.3 port 43196 connected with 192.100.1.2 port 5001
+[ 29] local 192.100.1.3 port 43232 connected with 192.100.1.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 27] 0.0000-60.0023 sec   192 GBytes  27.5 Gbits/sec
+[ 22] 0.0000-60.0024 sec   193 GBytes  27.6 Gbits/sec
+[ 11] 0.0000-60.0023 sec   189 GBytes  27.0 Gbits/sec
+[ 16] 0.0000-60.0023 sec   189 GBytes  27.0 Gbits/sec
+[  8] 0.0000-60.0025 sec   195 GBytes  27.9 Gbits/sec
+[ 30] 0.0000-60.0025 sec   190 GBytes  27.2 Gbits/sec
+[  2] 0.0000-60.0025 sec   189 GBytes  27.0 Gbits/sec
+[ 14] 0.0000-60.0021 sec   187 GBytes  26.7 Gbits/sec
+[ 19] 0.0000-60.0022 sec   191 GBytes  27.4 Gbits/sec
+[ 28] 0.0000-60.0023 sec   190 GBytes  27.3 Gbits/sec
+[ 25] 0.0000-60.0024 sec   191 GBytes  27.4 Gbits/sec
+[ 13] 0.0000-60.0023 sec   189 GBytes  27.1 Gbits/sec
+[ 26] 0.0000-60.0025 sec   195 GBytes  27.9 Gbits/sec
+[  6] 0.0000-60.0021 sec   194 GBytes  27.7 Gbits/sec
+[ 15] 0.0000-60.0024 sec   187 GBytes  26.8 Gbits/sec
+[  1] 0.0000-60.0021 sec   187 GBytes  26.8 Gbits/sec
+[ 23] 0.0000-60.0025 sec   194 GBytes  27.7 Gbits/sec
+[  4] 0.0000-60.0025 sec   190 GBytes  27.2 Gbits/sec
+[  7] 0.0000-60.0021 sec   189 GBytes  27.1 Gbits/sec
+[ 32] 0.0000-60.0026 sec   191 GBytes  27.4 Gbits/sec
+[ 24] 0.0000-60.0023 sec   184 GBytes  26.3 Gbits/sec
+[ 17] 0.0000-60.0022 sec   186 GBytes  26.6 Gbits/sec
+[ 20] 0.0000-60.0026 sec   186 GBytes  26.7 Gbits/sec
+[ 29] 0.0000-60.0020 sec   193 GBytes  27.7 Gbits/sec
+[ 21] 0.0000-60.0022 sec   188 GBytes  26.9 Gbits/sec
+[  5] 0.0000-60.0020 sec   189 GBytes  27.1 Gbits/sec
+[ 12] 0.0000-60.0024 sec   189 GBytes  27.1 Gbits/sec
+[ 18] 0.0000-60.0021 sec   193 GBytes  27.7 Gbits/sec
+[  3] 0.0000-60.0020 sec   186 GBytes  26.7 Gbits/sec
+[ 10] 0.0000-61.0021 sec   183 GBytes  25.8 Gbits/sec
+[ 31] 0.0000-61.0023 sec   186 GBytes  26.1 Gbits/sec
+[  9] 0.0000-61.0024 sec   193 GBytes  27.1 Gbits/sec
+[SUM] 0.0000-60.0000 sec  5.93 TBytes   869 Gbits/sec
+[ CT] final connect times (min/avg/max/stdev) = 0.031/0.062/0.125/0.028 ms (tot/err) = 32/0
+Iteration 5 complete. Waiting before next iteration...
+[  6] local 192.100.1.3 port 38172 connected with 192.100.1.2 port 5001
+[  8] local 192.100.1.3 port 38174 connected with 192.100.1.2 port 5001
+[  7] local 192.100.1.3 port 38180 connected with 192.100.1.2 port 5001
+[  3] local 192.100.1.3 port 38188 connected with 192.100.1.2 port 5001
+[ 15] local 192.100.1.3 port 38192 connected with 192.100.1.2 port 5001
+[ 16] local 192.100.1.3 port 38240 connected with 192.100.1.2 port 5001
+[  4] local 192.100.1.3 port 38176 connected with 192.100.1.2 port 5001
+[  9] local 192.100.1.3 port 38182 connected with 192.100.1.2 port 5001
+[ 10] local 192.100.1.3 port 38184 connected with 192.100.1.2 port 5001
+[ 12] local 192.100.1.3 port 38202 connected with 192.100.1.2 port 5001
+------------------------------------------------------------
+Client connecting to 192.100.1.2, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[ 14] local 192.100.1.3 port 38292 connected with 192.100.1.2 port 5001
+[  2] local 192.100.1.3 port 38186 connected with 192.100.1.2 port 5001
+[ 17] local 192.100.1.3 port 38246 connected with 192.100.1.2 port 5001
+[ 11] local 192.100.1.3 port 38194 connected with 192.100.1.2 port 5001
+[  1] local 192.100.1.3 port 38178 connected with 192.100.1.2 port 5001
+[  5] local 192.100.1.3 port 38170 connected with 192.100.1.2 port 5001
+[ 24] local 192.100.1.3 port 38300 connected with 192.100.1.2 port 5001
+[ 13] local 192.100.1.3 port 38190 connected with 192.100.1.2 port 5001
+[ 20] local 192.100.1.3 port 38356 connected with 192.100.1.2 port 5001
+[ 22] local 192.100.1.3 port 38352 connected with 192.100.1.2 port 5001
+[ 30] local 192.100.1.3 port 38400 connected with 192.100.1.2 port 5001
+[ 18] local 192.100.1.3 port 38316 connected with 192.100.1.2 port 5001
+[ 19] local 192.100.1.3 port 38336 connected with 192.100.1.2 port 5001
+[ 31] local 192.100.1.3 port 38320 connected with 192.100.1.2 port 5001
+[ 23] local 192.100.1.3 port 38358 connected with 192.100.1.2 port 5001
+[ 21] local 192.100.1.3 port 38348 connected with 192.100.1.2 port 5001
+[ 27] local 192.100.1.3 port 38360 connected with 192.100.1.2 port 5001
+[ 32] local 192.100.1.3 port 38414 connected with 192.100.1.2 port 5001
+[ 29] local 192.100.1.3 port 38384 connected with 192.100.1.2 port 5001
+[ 28] local 192.100.1.3 port 38366 connected with 192.100.1.2 port 5001
+[ 26] local 192.100.1.3 port 38410 connected with 192.100.1.2 port 5001
+[ 25] local 192.100.1.3 port 38372 connected with 192.100.1.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 28] 0.0000-60.0124 sec   190 GBytes  27.2 Gbits/sec
+[ 32] 0.0000-60.0124 sec   189 GBytes  27.0 Gbits/sec
+[ 31] 0.0000-60.0123 sec   189 GBytes  27.1 Gbits/sec
+[ 17] 0.0000-60.0122 sec   190 GBytes  27.2 Gbits/sec
+[  4] 0.0000-60.0124 sec   194 GBytes  27.7 Gbits/sec
+[ 20] 0.0000-60.0123 sec   191 GBytes  27.3 Gbits/sec
+[  9] 0.0000-60.0122 sec   189 GBytes  27.0 Gbits/sec
+[ 10] 0.0000-60.0123 sec   192 GBytes  27.5 Gbits/sec
+[ 18] 0.0000-60.0124 sec   191 GBytes  27.3 Gbits/sec
+[ 26] 0.0000-60.0122 sec   187 GBytes  26.7 Gbits/sec
+[ 22] 0.0000-60.0124 sec   189 GBytes  27.0 Gbits/sec
+[  7] 0.0000-60.0124 sec   186 GBytes  26.6 Gbits/sec
+[ 15] 0.0000-60.0124 sec   187 GBytes  26.8 Gbits/sec
+[  3] 0.0000-60.0125 sec   188 GBytes  26.8 Gbits/sec
+[ 21] 0.0000-60.0123 sec   192 GBytes  27.5 Gbits/sec
+[ 13] 0.0000-60.0122 sec   189 GBytes  27.0 Gbits/sec
+[ 29] 0.0000-60.0125 sec   191 GBytes  27.3 Gbits/sec
+[  6] 0.0000-60.0123 sec   189 GBytes  27.1 Gbits/sec
+[ 30] 0.0000-60.0124 sec   187 GBytes  26.8 Gbits/sec
+[ 24] 0.0000-60.0123 sec   187 GBytes  26.8 Gbits/sec
+[ 27] 0.0000-60.0124 sec   188 GBytes  26.9 Gbits/sec
+[ 25] 0.0000-60.0124 sec   185 GBytes  26.5 Gbits/sec
+[  2] 0.0000-60.0122 sec   189 GBytes  27.0 Gbits/sec
+[  5] 0.0000-60.0122 sec   190 GBytes  27.2 Gbits/sec
+[  8] 0.0000-60.0124 sec   186 GBytes  26.7 Gbits/sec
+[ 12] 0.0000-60.0125 sec   191 GBytes  27.3 Gbits/sec
+[  1] 0.0000-60.0125 sec   187 GBytes  26.8 Gbits/sec
+[ 23] 0.0000-60.0125 sec   189 GBytes  27.1 Gbits/sec
+[ 11] 0.0000-60.0122 sec   185 GBytes  26.4 Gbits/sec
+[ 16] 0.0000-60.0124 sec   189 GBytes  27.0 Gbits/sec
+[ 19] 0.0000-61.0125 sec   189 GBytes  26.6 Gbits/sec
+[ 14] 0.0000-61.0123 sec   187 GBytes  26.3 Gbits/sec
+[SUM] 0.0000-60.0000 sec  5.90 TBytes   865 Gbits/sec
+[ CT] final connect times (min/avg/max/stdev) = 0.017/0.066/0.126/0.024 ms (tot/err) = 32/0
+Iteration 6 complete. Waiting before next iteration...
+[ 23] local 192.100.1.3 port 59292 connected with 192.100.1.2 port 5001
+[ 22] local 192.100.1.3 port 59134 connected with 192.100.1.2 port 5001
+[  2] local 192.100.1.3 port 59054 connected with 192.100.1.2 port 5001
+[  6] local 192.100.1.3 port 59028 connected with 192.100.1.2 port 5001
+[ 12] local 192.100.1.3 port 59132 connected with 192.100.1.2 port 5001
+[ 18] local 192.100.1.3 port 59122 connected with 192.100.1.2 port 5001
+[ 31] local 192.100.1.3 port 59250 connected with 192.100.1.2 port 5001
+[ 32] local 192.100.1.3 port 59262 connected with 192.100.1.2 port 5001
+[  7] local 192.100.1.3 port 59026 connected with 192.100.1.2 port 5001
+[  9] local 192.100.1.3 port 59030 connected with 192.100.1.2 port 5001
+[ 17] local 192.100.1.3 port 59052 connected with 192.100.1.2 port 5001
+[ 11] local 192.100.1.3 port 59036 connected with 192.100.1.2 port 5001
+[ 13] local 192.100.1.3 port 59040 connected with 192.100.1.2 port 5001
+[  4] local 192.100.1.3 port 59034 connected with 192.100.1.2 port 5001
+[ 16] local 192.100.1.3 port 59100 connected with 192.100.1.2 port 5001
+[  1] local 192.100.1.3 port 59038 connected with 192.100.1.2 port 5001
+[ 14] local 192.100.1.3 port 59206 connected with 192.100.1.2 port 5001
+[  3] local 192.100.1.3 port 59032 connected with 192.100.1.2 port 5001
+------------------------------------------------------------
+Client connecting to 192.100.1.2, TCP port 5001
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  8] local 192.100.1.3 port 59088 connected with 192.100.1.2 port 5001
+[ 19] local 192.100.1.3 port 59218 connected with 192.100.1.2 port 5001
+[ 20] local 192.100.1.3 port 59226 connected with 192.100.1.2 port 5001
+[  5] local 192.100.1.3 port 59042 connected with 192.100.1.2 port 5001
+[ 15] local 192.100.1.3 port 59106 connected with 192.100.1.2 port 5001
+[ 10] local 192.100.1.3 port 59108 connected with 192.100.1.2 port 5001
+[ 24] local 192.100.1.3 port 59240 connected with 192.100.1.2 port 5001
+[ 21] local 192.100.1.3 port 59214 connected with 192.100.1.2 port 5001
+[ 27] local 192.100.1.3 port 59248 connected with 192.100.1.2 port 5001
+[ 25] local 192.100.1.3 port 59276 connected with 192.100.1.2 port 5001
+[ 28] local 192.100.1.3 port 59302 connected with 192.100.1.2 port 5001
+[ 26] local 192.100.1.3 port 59286 connected with 192.100.1.2 port 5001
+[ 29] local 192.100.1.3 port 59306 connected with 192.100.1.2 port 5001
+[ 30] local 192.100.1.3 port 59320 connected with 192.100.1.2 port 5001
+[ ID] Interval       Transfer     Bandwidth
+[ 29] 0.0000-60.0030 sec   191 GBytes  27.3 Gbits/sec
+[ 21] 0.0000-60.0029 sec   191 GBytes  27.3 Gbits/sec
+[ 22] 0.0000-60.0031 sec   193 GBytes  27.6 Gbits/sec
+[ 25] 0.0000-60.0030 sec   188 GBytes  26.9 Gbits/sec
+[ 23] 0.0000-60.0030 sec   192 GBytes  27.5 Gbits/sec
+[  9] 0.0000-60.0030 sec   187 GBytes  26.8 Gbits/sec
+[  7] 0.0000-60.0032 sec   188 GBytes  26.9 Gbits/sec
+[ 17] 0.0000-60.0028 sec   186 GBytes  26.7 Gbits/sec
+[ 28] 0.0000-60.0031 sec   190 GBytes  27.1 Gbits/sec
+[ 18] 0.0000-60.0027 sec   185 GBytes  26.5 Gbits/sec
+[  3] 0.0000-60.0028 sec   194 GBytes  27.8 Gbits/sec
+[ 13] 0.0000-60.0028 sec   196 GBytes  28.1 Gbits/sec
+[  8] 0.0000-60.0029 sec   193 GBytes  27.7 Gbits/sec
+[  2] 0.0000-60.0029 sec   187 GBytes  26.8 Gbits/sec
+[ 26] 0.0000-60.0032 sec   191 GBytes  27.3 Gbits/sec
+[ 15] 0.0000-60.0032 sec   190 GBytes  27.2 Gbits/sec
+[ 30] 0.0000-60.0027 sec   191 GBytes  27.3 Gbits/sec
+[ 12] 0.0000-60.0030 sec   192 GBytes  27.5 Gbits/sec
+[  4] 0.0000-60.0028 sec   190 GBytes  27.3 Gbits/sec
+[ 16] 0.0000-60.0033 sec   189 GBytes  27.1 Gbits/sec
+[ 11] 0.0000-60.0028 sec   189 GBytes  27.0 Gbits/sec
+[ 19] 0.0000-60.0032 sec   187 GBytes  26.8 Gbits/sec
+[  6] 0.0000-60.0028 sec   185 GBytes  26.5 Gbits/sec
+[ 27] 0.0000-60.0033 sec   189 GBytes  27.1 Gbits/sec
+[ 24] 0.0000-60.0029 sec   189 GBytes  27.1 Gbits/sec
+[  5] 0.0000-60.0033 sec   189 GBytes  27.1 Gbits/sec
+[ 20] 0.0000-60.0031 sec   193 GBytes  27.6 Gbits/sec
+[ 14] 0.0000-60.0029 sec   191 GBytes  27.3 Gbits/sec
+[ 31] 0.0000-61.0030 sec   192 GBytes  27.0 Gbits/sec
+[  1] 0.0000-61.0031 sec   189 GBytes  26.7 Gbits/sec
+[ 32] 0.0000-61.0032 sec   189 GBytes  26.6 Gbits/sec
+[ 10] 0.0000-61.0032 sec   193 GBytes  27.2 Gbits/sec
+[SUM] 0.0000-60.0000 sec  5.94 TBytes   870 Gbits/sec
+[ CT] final connect times (min/avg/max/stdev) = 0.028/0.057/0.113/0.023 ms (tot/err) = 32/0
+Iteration 7 complete. Waiting before next iteration...
